@@ -1,4 +1,6 @@
 ### Hi there 👋
+[![Linkedin Badge](https://img.shields.io/badge/-marcmiros-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcmiros/)](https://www.linkedin.com/in/marcmiros/)
+
 
 <!--
 **marcmiro/marcmiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
