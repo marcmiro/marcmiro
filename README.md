@@ -1,6 +1,8 @@
 
 ### Hi, I'm Marc 👋
 
+#### I'm a Full-Stack Developer working in Lisbon, Portugal.
+
 ## Find me on:
 
 [![Linkedin Badge](https://img.shields.io/badge/-marcmiros-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcmiros/)](https://www.linkedin.com/in/marcmiros/)
@@ -8,8 +10,10 @@
 
 ## Technologies & tools:
 
-![tools](https://img.shields.io/static/v1?label=&message=tools:&color=111&style=flat-square)
-![kubernetes](https://img.shields.io/static/v1?logo=kubernetes&label=&message=kubernetes&color=36465D&logoColor=AAA&style=flat-square)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
+
 
 <!--
 **marcmiro/marcmiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
