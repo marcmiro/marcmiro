@@ -9,7 +9,7 @@
 **Find me on:**
 
 [![Linkedin Badge](https://img.shields.io/badge/-marcmiros-blue?style=flat&logo=Linkedin&logoColor=white)][1]
-![GitHub followers][2] 
+![GitHub followers][2]
 &nbsp;  
 
 **Technologies & tools:**
