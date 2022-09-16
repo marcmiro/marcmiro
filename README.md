@@ -1,4 +1,7 @@
-<h2>### Hi, I'm Marc 👋</h2>
+
+## Hi, I'm Marc 👋
+
+---
 
 [![Linkedin Badge](https://img.shields.io/badge/-marcmiros-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcmiros/)](https://www.linkedin.com/in/marcmiros/)
 
