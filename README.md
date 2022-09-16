@@ -1,5 +1,7 @@
 
-## Hi, I'm Marc 👋
+### Hi, I'm Marc 👋
+
+### Find me on:
 
 [![Linkedin Badge](https://img.shields.io/badge/-marcmiros-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcmiros/)](https://www.linkedin.com/in/marcmiros/)
 ![GitHub followers](https://img.shields.io/github/followers/marcmiro?label=Follow&style=social)  
