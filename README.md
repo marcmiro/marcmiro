@@ -2,9 +2,9 @@
 ## Hi, I'm Marc 👋
 
 [![Linkedin Badge](https://img.shields.io/badge/-marcmiros-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcmiros/)](https://www.linkedin.com/in/marcmiros/)
-![GitHub followers](https://img.shields.io/github/followers/marcmiro?label=Follow&style=social)
+![GitHub followers](https://img.shields.io/github/followers/marcmiro?label=Follow&style=social)  
 
-### Technologies & tools
+### Technologies & tools:
 
 ![tools](https://img.shields.io/static/v1?label=&message=tools:&color=111&style=flat-square)
 ![kubernetes](https://img.shields.io/static/v1?logo=kubernetes&label=&message=kubernetes&color=36465D&logoColor=AAA&style=flat-square)
