@@ -1,7 +1,9 @@
 
 ### Hi, I'm Marc 👋
 
-#### I'm a Full-Stack Developer working in Lisbon, Portugal.
+#### I'm a DevOps Engineer working in Barcelona.
+
+#### Learn, automate and enjoy.
 
 ## Find me on:
 
