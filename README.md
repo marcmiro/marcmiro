@@ -1,16 +1,16 @@
 
 # Hi, I'm Marc 👋
 
-&nbsp;
 🛠️ I'm a DevOps Engineer working in Barcelona.  
 💬 Learn, automate and enjoy.
-&nbsp;
-&nbsp;
+&nbsp;  
+&nbsp;  
 
 **Find me on:**
 
 [![Linkedin Badge](https://img.shields.io/badge/-marcmiros-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/marcmiros/)
 ![GitHub followers](https://img.shields.io/github/followers/marcmiro?label=Follow&style=social)  
+&nbsp;  
 
 **Technologies & tools:**
 
