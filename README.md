@@ -1,8 +1,8 @@
 
 **Hi, I'm Marc 👋**
 
-I'm a DevOps Engineer working in Barcelona.  
-Learn, automate and enjoy.
+🛠️ I'm a DevOps Engineer working in Barcelona.  
+💬 Learn, automate and enjoy.
 
 ## Find me on
 
