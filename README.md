@@ -1,7 +1,7 @@
 
 # Hi, I'm Marc 👋
 
-🛠️ I'm a DevOps Engineer working in Barcelona.  
+🛠️ I'm a Platform Engineer working in Barcelona.  
 💬 Learn, automate and enjoy.
 &nbsp;  
 &nbsp;  
