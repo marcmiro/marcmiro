@@ -13,9 +13,9 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v6
 
       - name: Markdown Linting Action
-        uses: avto-dev/markdown-lint@v1.5.0
+        uses: DavidAnson/markdownlint-cli2-action@v23
         with:
-          args: "./README.md"
+          globs: "README.md"
