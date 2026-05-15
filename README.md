@@ -1,4 +1,3 @@
-
 # Hi, I'm Marc 👋
 
 🛠️ I'm a Lead Platform Engineer working in Barcelona.  
@@ -11,12 +10,12 @@
 
 **Technologies & tools:**
 
-[comment]: # (https://github.com/Ileriayo/markdown-badges)
+<!-- https://github.com/Ileriayo/markdown-badges -->
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
 ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-[comment]: # (Links)
+<!-- Links -->
 [1]: https://www.linkedin.com/in/marcmiros/
 [2]: https://github.com/marcmiro
