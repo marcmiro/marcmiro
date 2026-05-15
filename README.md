@@ -1,6 +1,6 @@
 # Hi, I'm Marc 👋
 
-🛠️ I'm a Lead Platform Engineer working in Barcelona.  
+🛠️ I'm a Lead Platform Engineer working from Girona.  
 💬 Learn, automate and enjoy.
 
 **Find me on:**
